@@ -1,0 +1,34 @@
+Body{
+background-color:#c1bbcb;
+}
+
+div.title h1{
+text-align: center;
+font-size: 1.3em;
+font-family:'Roboto';
+border-style:solid ;
+border-width: medium;
+width: 50%;
+margin-right:auto ;
+margin-left: auto;
+}
+div.title{
+margin-right:auto ;
+margin-left: auto;
+position: relative;
+}
+
+header{
+margin:auto;
+width: 95%;
+}
+
+img {
+border-radius: 1em;
+padding: 5px;
+width: 150px;
+float: left;
+position: absolute ;
+top:0px;
+left:0px;
+}
